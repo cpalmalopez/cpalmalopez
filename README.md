@@ -9,18 +9,18 @@
 
 ```javascript
 const xclaudioh = {
-  pronouns: "she" | "her",
-  speak: ["Spanish"],
-  age: 21,
-  code: ["Javascript", "HTML", "CSS", "Java", "C#"],
-  tools: ["React", "React Native", "Node", "Express", "Laravel", "Bootstrap", "MySQL", "MongoDB"],
-  IDE: ["Visual Studio Code", "XCode", "Android Studio"],
-  companyJobs: {
-                        MidoriApps: ["Leader Projects", "Web Developer", "Mobile Developer", "Bots Discord Developer"],
-                        Neuroinformatics: ["Leader Projects", "Mobile Developer"],
-                      },
-  design: "Adobe Photoshop",
-  discord: "Claus#7185",
-  challenge: "Learn new things every day"
+    pronouns: "she" | "her",
+    speak: ["Spanish"],
+    age: 21,
+    code: ["Javascript", "HTML", "CSS", "Java", "C#"],
+    tools: ["React", "React Native", "Node", "Express", "Laravel", "Bootstrap", "MySQL", "MongoDB"],
+    IDE: ["Visual Studio Code", "XCode", "Android Studio"],
+    companyJobs: {
+        MidoriApps: ["Leader Projects", "Web Developer", "Mobile Developer", "Bots Discord Developer"],
+        Neuroinformatics: ["Leader Projects", "Mobile Developer"],
+    },
+    design: "Adobe Photoshop",
+    discord: "Claus#7185",
+    challenge: "Learn new things every day"
 }
 ```
