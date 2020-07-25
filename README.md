@@ -1,16 +1,26 @@
-### Hi there 👋
+<h2>Hi there 👋</h2>
 
-<!--
-**xclaudioh/xclaudioh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![](https://img.shields.io/badge/LinkedIn-claudiopalmalópez-2877B5)](https://www.linkedin.com/in/claudio-palma-l%C3%B3pez-876087175/)
+[![](https://img.shields.io/badge/Twitter-x_claus1-39A2F2)](https://twitter.com/x_claus1/)
+[![](https://img.shields.io/badge/Twitch-xclaus1-924CF7)](https://twitch.tv/xclaus1/)
+[![](https://img.shields.io/badge/Outlook-xclaudioh@outlook.com-2178D4)](mailto:xclaudioh@outlook.com)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+```javascript
+const xclaudioh = {
+  pronouns: "she" | "her",
+  speak: ["Spanish"],
+  age: 21,
+  code: ["Javascript", "HTML", "CSS", "Java", "C#"],
+  tools: ["React", "React Native", "Node", "Express", "Laravel", "Bootstrap", "MySQL", "MongoDB"],
+  IDE: ["Visual Studio Code", "XCode", "Android Studio"],
+  companyJobs: {
+                        MidoriApps: ["Leader Projects", "Web Developer", "Mobile Developer", "Bots Discord Developer"],
+                        Neuroinformatics: ["Leader Projects", "Mobile Developer"],
+                      },
+  design: "Adobe Photoshop",
+  discord: "Claus#7185",
+  challenge: "Learn new things every day"
+}
+```
