@@ -10,7 +10,7 @@
 ```javascript
 const xclaudioh = {
     pronouns: "she" | "her",
-    speak: ["Spanish"],
+    speak: ["Spanish", "Little of English"],
     age: 21,
     code: ["Javascript", "HTML", "CSS", "Java", "C#"],
     tools: ["React", "React Native", "Node", "Express", "Laravel", "Bootstrap", "MySQL", "MongoDB"],
