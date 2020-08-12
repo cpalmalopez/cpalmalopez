@@ -9,9 +9,12 @@
 
 ```javascript
 const xclaudioh = {
-    pronouns: "she" | "her",
-    speak: ["Spanish", "Little of English"],
-    age: 21,
+    personalInformation: {
+        name: "Claudio",
+        age: "21",
+        aboutMe: ["web dev", "app dev", "music", "guitar", "ukulele", "photography", "design"],
+        speak: ["Spanish", "Little of English"],
+    },
     code: ["Javascript", "HTML", "CSS", "Java", "C#"],
     tools: ["React", "React Native", "Node", "Express", "Laravel", "Bootstrap", "MySQL", "MongoDB"],
     IDE: ["Visual Studio Code", "XCode", "Android Studio"],
