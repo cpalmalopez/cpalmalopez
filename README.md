@@ -1,4 +1,5 @@
-<h2>Hi there 👋</h2>
+<h2>Hello, I'm Claudio Palma López ✌</h2>
+<p><em>I'm developer in <a href="https://github.com/MidoriApps">MidoriApps</a> 🍃 and <a href="https://github.com/Neuromarketing-e-Innovacion-Informatica">NeuroInformatics</a> 🧠</em></p>
 
 [![](https://img.shields.io/badge/LinkedIn-claudiopalmalópez-2877B5)](https://www.linkedin.com/in/claudio-palma-l%C3%B3pez-876087175/)
 [![](https://img.shields.io/badge/Twitter-x_claus1-39A2F2)](https://twitter.com/x_claus1/)
@@ -10,7 +11,6 @@
 ```javascript
 const xclaudioh = {
     personalInformation: {
-        name: "Claudio",
         age: "21",
         aboutMe: ["web dev", "app dev", "music", "guitar", "ukulele", "photography", "design"],
         speak: ["Spanish", "Little of English"],
@@ -20,7 +20,7 @@ const xclaudioh = {
     IDE: ["Visual Studio Code", "XCode", "Android Studio"],
     companyJobs: {
         MidoriApps: ["Leader Projects", "Web Developer", "Mobile Developer", "Bots Discord Developer"],
-        Neuroinformatics: ["Leader Projects", "Mobile Developer"],
+        NeuroInformatics: ["Leader Projects", "Mobile Developer"],
     },
     design: "Adobe Photoshop",
     discord: "Claus#7185",
