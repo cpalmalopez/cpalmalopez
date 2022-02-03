@@ -11,12 +11,12 @@
 ```javascript
 const xclaudioh = {
     personalInformation: {
-        age: "22",
+        age: "23",
         aboutMe: ["web dev", "app dev", "music", "guitar", "ukulele", "photography", "design"],
         speak: ["Spanish", "Little of English"],
     },
-    code: ["Javascript", "HTML", "CSS", "Java", "C#"],
-    tools: ["React", "React Native", "Node", "Express", "Laravel", "Bootstrap", "MySQL", "MongoDB"],
+    code: ["Javascript", "HTML", "CSS", "Java", "C#", "Typescript"],
+    tools: ["React", "React Native", "Node", "Express", "Laravel", "Bootstrap", "MySQL", "MongoDB", "Angular"],
     IDE: ["Visual Studio Code", "XCode", "Android Studio"],
     companyJobs: {
         MidoriApps: ["Leader Projects", "Web Developer", "Mobile Developer", "Bots Discord Developer"],
