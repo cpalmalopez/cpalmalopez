@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Hello, I'm Claudio Palma López, chilean developer and I'm currently working on Fabsoft!
+🔭 Hello, I'm Claudio Palma López, chilean developer and I'm currently working on MetLife!
 
 
 ## 🌐 Socials:
